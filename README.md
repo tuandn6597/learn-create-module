@@ -2,9 +2,9 @@
 A Node.js module that returns the plural form of any noun
 ## Installation 
 ```sh
-npm install mypluralize --save
-yarn add mypluralize
-bower install pluralize --save
+npm install create-module --save
+yarn add create-module
+bower install create-module --save
 ```
 ## Usage
 ### Javascript

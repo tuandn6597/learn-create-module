@@ -1,0 +1,30 @@
+{
+  "name": "create-module",
+  "version": "1.0.0",
+  "description": "descript module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuandn6597/learn-create-module.git"
+  },
+  "author": "Dang Ngoc Tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuandn6597/learn-create-module/issues"
+  },
+  "homepage": "https://github.com/tuandn6597/learn-create-module#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "pluralize": "^8.0.0"
+  }
+}

@@ -1,10 +1,10 @@
-# learn-create-module
+# tuan-ant-tech
 A Node.js module that returns the plural form of any noun
 ## Installation 
 ```sh
-npm install create-module --save
-yarn add create-module
-bower install create-module --save
+npm install tuan-ant-tech --save
+yarn add tuan-ant-tech
+bower install tuan-ant-tech --save
 ```
 ## Usage
 ### Javascript
